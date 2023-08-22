@@ -1,4 +1,4 @@
-# Python script takes in a csv field and removes any embedded double quotations
+# Python script takes in a csv file and removes any embedded double quotations
 # testfile.csv - test file with embedded quotes
 # cleanfile.csv - output file with double quotes removed
 import csv
